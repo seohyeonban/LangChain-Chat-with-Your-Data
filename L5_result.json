@@ -1,0 +1,567 @@
+{
+  "file": "L5-Question_Answering.ipynb",
+  "comparison_basis": "PyPI에 공개된 각 대상 패키지의 최신 버전",
+  "detection_rule": "추출한 import/API 전체 경로가 최신 버전 소스 색인에 없으면 OUTDATED",
+  "latest_versions": {
+    "langchain": "1.3.14",
+    "langchain_community": "0.4.2",
+    "langchain_core": "1.5.3",
+    "langchain_openai": "1.4.3",
+    "langchain_text_splitters": "1.1.2"
+  },
+  "summary": {
+    "OUTDATED": 30
+  },
+  "parse_errors": [],
+  "results": [
+    {
+      "cell": 6,
+      "line": 1,
+      "type": "IMPORT",
+      "code": "from langchain.vectorstores import Chroma",
+      "api": "langchain.vectorstores.Chroma",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.vectorstores.chroma.Chroma",
+      "replacement_candidates": [
+        "langchain_community.vectorstores.chroma.Chroma"
+      ]
+    },
+    {
+      "cell": 6,
+      "line": 2,
+      "type": "IMPORT",
+      "code": "from langchain.embeddings.openai import OpenAIEmbeddings",
+      "api": "langchain.embeddings.openai.OpenAIEmbeddings",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.embeddings.anyscale.OpenAIEmbeddings",
+      "replacement_candidates": [
+        "langchain_community.embeddings.anyscale.OpenAIEmbeddings",
+        "langchain_community.embeddings.azure_openai.OpenAIEmbeddings",
+        "langchain_community.embeddings.octoai_embeddings.OpenAIEmbeddings",
+        "langchain_community.embeddings.openai.OpenAIEmbeddings",
+        "langchain_openai.OpenAIEmbeddings",
+        "langchain_openai.embeddings.OpenAIEmbeddings",
+        "langchain_openai.embeddings.azure.OpenAIEmbeddings",
+        "langchain_openai.embeddings.base.OpenAIEmbeddings"
+      ]
+    },
+    {
+      "cell": 6,
+      "line": 4,
+      "type": "API_CALL",
+      "code": "OpenAIEmbeddings()",
+      "api": "langchain.embeddings.openai.OpenAIEmbeddings",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.embeddings.anyscale.OpenAIEmbeddings",
+      "replacement_candidates": [
+        "langchain_community.embeddings.anyscale.OpenAIEmbeddings",
+        "langchain_community.embeddings.azure_openai.OpenAIEmbeddings",
+        "langchain_community.embeddings.octoai_embeddings.OpenAIEmbeddings",
+        "langchain_community.embeddings.openai.OpenAIEmbeddings",
+        "langchain_openai.OpenAIEmbeddings",
+        "langchain_openai.embeddings.OpenAIEmbeddings",
+        "langchain_openai.embeddings.azure.OpenAIEmbeddings",
+        "langchain_openai.embeddings.base.OpenAIEmbeddings"
+      ]
+    },
+    {
+      "cell": 6,
+      "line": 5,
+      "type": "API_CALL",
+      "code": "Chroma(persist_directory=persist_directory, embedding_function=embedding)",
+      "api": "langchain.vectorstores.Chroma",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.vectorstores.chroma.Chroma",
+      "replacement_candidates": [
+        "langchain_community.vectorstores.chroma.Chroma"
+      ]
+    },
+    {
+      "cell": 7,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "vectordb._collection.count()",
+      "api": "langchain.vectorstores.Chroma._collection.count",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.vectorstores.jaguar.Jaguar.count",
+      "replacement_candidates": [
+        "langchain_community.vectorstores.jaguar.Jaguar.count"
+      ]
+    },
+    {
+      "cell": 8,
+      "line": 2,
+      "type": "METHOD_CALL",
+      "code": "vectordb.similarity_search(question,k=3)",
+      "api": "langchain.vectorstores.Chroma.similarity_search",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.similarity_search",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.similarity_search",
+        "langchain_community.graph_vectorstores.cassandra.CassandraGraphVectorStore.similarity_search",
+        "langchain_community.vectorstores.aerospike.Aerospike.similarity_search",
+        "langchain_community.vectorstores.alibabacloud_opensearch.AlibabaCloudOpenSearch.similarity_search",
+        "langchain_community.vectorstores.analyticdb.AnalyticDB.similarity_search",
+        "langchain_community.vectorstores.annoy.Annoy.similarity_search",
+        "langchain_community.vectorstores.apache_doris.ApacheDoris.similarity_search",
+        "langchain_community.vectorstores.aperturedb.ApertureDB.similarity_search",
+        "langchain_community.vectorstores.astradb.AstraDB.similarity_search",
+        "langchain_community.vectorstores.atlas.AtlasDB.similarity_search",
+        "langchain_community.vectorstores.awadb.AwaDB.similarity_search",
+        "langchain_community.vectorstores.azure_cosmos_db.AzureCosmosDBVectorSearch.similarity_search",
+        "langchain_community.vectorstores.azure_cosmos_db_no_sql.AzureCosmosDBNoSqlVectorSearch.similarity_search",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.similarity_search",
+        "langchain_community.vectorstores.bagel.Bagel.similarity_search",
+        "langchain_community.vectorstores.baiducloud_vector_search.BESVectorStore.similarity_search",
+        "langchain_community.vectorstores.baiduvectordb.BaiduVectorDB.similarity_search",
+        "langchain_community.vectorstores.bigquery_vector_search.BigQueryVectorSearch.similarity_search",
+        "langchain_community.vectorstores.cassandra.Cassandra.similarity_search",
+        "langchain_community.vectorstores.chroma.Chroma.similarity_search",
+        "langchain_community.vectorstores.clarifai.Clarifai.similarity_search",
+        "langchain_community.vectorstores.clickhouse.Clickhouse.similarity_search",
+        "langchain_community.vectorstores.couchbase.CouchbaseVectorStore.similarity_search",
+        "langchain_community.vectorstores.dashvector.DashVector.similarity_search",
+        "langchain_community.vectorstores.dingo.Dingo.similarity_search",
+        "langchain_community.vectorstores.docarray.base.DocArrayIndex.similarity_search",
+        "langchain_community.vectorstores.documentdb.DocumentDBVectorSearch.similarity_search",
+        "langchain_community.vectorstores.duckdb.DuckDB.similarity_search",
+        "langchain_community.vectorstores.ecloud_vector_search.EcloudESVectorStore.similarity_search",
+        "langchain_community.vectorstores.elastic_vector_search.ElasticKnnSearch.similarity_search",
+        "langchain_community.vectorstores.elastic_vector_search.ElasticVectorSearch.similarity_search",
+        "langchain_community.vectorstores.elasticsearch.ElasticsearchStore.similarity_search",
+        "langchain_community.vectorstores.epsilla.Epsilla.similarity_search",
+        "langchain_community.vectorstores.faiss.FAISS.similarity_search",
+        "langchain_community.vectorstores.falkordb_vector.FalkorDBVector.similarity_search",
+        "langchain_community.vectorstores.hippo.Hippo.similarity_search",
+        "langchain_community.vectorstores.hologres.Hologres.similarity_search",
+        "langchain_community.vectorstores.infinispanvs.InfinispanVS.similarity_search",
+        "langchain_community.vectorstores.jaguar.Jaguar.similarity_search",
+        "langchain_community.vectorstores.kdbai.KDBAI.similarity_search",
+        "langchain_community.vectorstores.kinetica.Kinetica.similarity_search",
+        "langchain_community.vectorstores.lancedb.LanceDB.similarity_search",
+        "langchain_community.vectorstores.lantern.Lantern.similarity_search",
+        "langchain_community.vectorstores.llm_rails.LLMRails.similarity_search",
+        "langchain_community.vectorstores.manticore_search.ManticoreSearch.similarity_search",
+        "langchain_community.vectorstores.marqo.Marqo.similarity_search",
+        "langchain_community.vectorstores.meilisearch.Meilisearch.similarity_search",
+        "langchain_community.vectorstores.milvus.Milvus.similarity_search",
+        "langchain_community.vectorstores.momento_vector_index.MomentoVectorIndex.similarity_search",
+        "langchain_community.vectorstores.myscale.MyScale.similarity_search",
+        "langchain_community.vectorstores.nucliadb.NucliaDB.similarity_search",
+        "langchain_community.vectorstores.opensearch_vector_search.OpenSearchVectorSearch.similarity_search",
+        "langchain_community.vectorstores.pathway.PathwayVectorClient.similarity_search",
+        "langchain_community.vectorstores.pgembedding.PGEmbedding.similarity_search",
+        "langchain_community.vectorstores.pgvecto_rs.PGVecto_rs.similarity_search",
+        "langchain_community.vectorstores.pgvector.PGVector.similarity_search",
+        "langchain_community.vectorstores.redis.base.Redis.similarity_search",
+        "langchain_community.vectorstores.relyt.Relyt.similarity_search",
+        "langchain_community.vectorstores.rocksetdb.Rockset.similarity_search",
+        "langchain_community.vectorstores.scann.ScaNN.similarity_search",
+        "langchain_community.vectorstores.semadb.SemaDB.similarity_search",
+        "langchain_community.vectorstores.singlestoredb.SingleStoreDB.similarity_search",
+        "langchain_community.vectorstores.sklearn.SKLearnVectorStore.similarity_search",
+        "langchain_community.vectorstores.sqlitevec.SQLiteVec.similarity_search",
+        "langchain_community.vectorstores.sqlitevss.SQLiteVSS.similarity_search",
+        "langchain_community.vectorstores.starrocks.StarRocks.similarity_search",
+        "langchain_community.vectorstores.supabase.SupabaseVectorStore.similarity_search",
+        "langchain_community.vectorstores.surrealdb.SurrealDBStore.similarity_search",
+        "langchain_community.vectorstores.tablestore.TablestoreVectorStore.similarity_search",
+        "langchain_community.vectorstores.tair.Tair.similarity_search",
+        "langchain_community.vectorstores.tencentvectordb.TencentVectorDB.similarity_search",
+        "langchain_community.vectorstores.thirdai_neuraldb.NeuralDBClientVectorStore.similarity_search",
+        "langchain_community.vectorstores.thirdai_neuraldb.NeuralDBVectorStore.similarity_search",
+        "langchain_community.vectorstores.tidb_vector.TiDBVectorStore.similarity_search",
+        "langchain_community.vectorstores.tiledb.TileDB.similarity_search",
+        "langchain_community.vectorstores.timescalevector.TimescaleVector.similarity_search",
+        "langchain_community.vectorstores.typesense.Typesense.similarity_search",
+        "langchain_community.vectorstores.upstash.UpstashVectorStore.similarity_search",
+        "langchain_community.vectorstores.usearch.USearch.similarity_search",
+        "langchain_community.vectorstores.vald.Vald.similarity_search",
+        "langchain_community.vectorstores.vearch.Vearch.similarity_search",
+        "langchain_community.vectorstores.vectara.Vectara.similarity_search",
+        "langchain_community.vectorstores.vespa.VespaStore.similarity_search",
+        "langchain_community.vectorstores.vikingdb.VikingDB.similarity_search",
+        "langchain_community.vectorstores.vlite.VLite.similarity_search",
+        "langchain_community.vectorstores.xata.XataVectorStore.similarity_search",
+        "langchain_community.vectorstores.yellowbrick.Yellowbrick.similarity_search",
+        "langchain_community.vectorstores.zep.ZepVectorStore.similarity_search",
+        "langchain_community.vectorstores.zep_cloud.ZepCloudVectorStore.similarity_search",
+        "langchain_core.vectorstores.base.VectorStore.similarity_search",
+        "langchain_core.vectorstores.in_memory.InMemoryVectorStore.similarity_search"
+      ]
+    },
+    {
+      "cell": 9,
+      "line": 1,
+      "type": "IMPORT",
+      "code": "from langchain.chat_models import ChatOpenAI",
+      "api": "langchain.chat_models.ChatOpenAI",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chat_models.anyscale.ChatOpenAI",
+      "replacement_candidates": [
+        "langchain_community.chat_models.anyscale.ChatOpenAI",
+        "langchain_community.chat_models.everlyai.ChatOpenAI",
+        "langchain_community.chat_models.konko.ChatOpenAI",
+        "langchain_community.chat_models.moonshot.ChatOpenAI",
+        "langchain_community.chat_models.octoai.ChatOpenAI",
+        "langchain_community.chat_models.openai.ChatOpenAI",
+        "langchain_community.chat_models.promptlayer_openai.ChatOpenAI",
+        "langchain_community.tools.amadeus.closest_airport.ChatOpenAI",
+        "langchain_openai.ChatOpenAI",
+        "langchain_openai.chat_models.ChatOpenAI",
+        "langchain_openai.chat_models.base.ChatOpenAI",
+        "langchain_openai.chat_models.codex.ChatOpenAI"
+      ]
+    },
+    {
+      "cell": 9,
+      "line": 2,
+      "type": "API_CALL",
+      "code": "ChatOpenAI(model_name=llm_name, temperature=0)",
+      "api": "langchain.chat_models.ChatOpenAI",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chat_models.anyscale.ChatOpenAI",
+      "replacement_candidates": [
+        "langchain_community.chat_models.anyscale.ChatOpenAI",
+        "langchain_community.chat_models.everlyai.ChatOpenAI",
+        "langchain_community.chat_models.konko.ChatOpenAI",
+        "langchain_community.chat_models.moonshot.ChatOpenAI",
+        "langchain_community.chat_models.octoai.ChatOpenAI",
+        "langchain_community.chat_models.openai.ChatOpenAI",
+        "langchain_community.chat_models.promptlayer_openai.ChatOpenAI",
+        "langchain_community.tools.amadeus.closest_airport.ChatOpenAI",
+        "langchain_openai.ChatOpenAI",
+        "langchain_openai.chat_models.ChatOpenAI",
+        "langchain_openai.chat_models.base.ChatOpenAI",
+        "langchain_openai.chat_models.codex.ChatOpenAI"
+      ]
+    },
+    {
+      "cell": 11,
+      "line": 1,
+      "type": "IMPORT",
+      "code": "from langchain.chains import RetrievalQA",
+      "api": "langchain.chains.RetrievalQA",
+      "status": "OUTDATED",
+      "replacement": null,
+      "replacement_candidates": []
+    },
+    {
+      "cell": 12,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever()\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 12,
+      "line": 3,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 13,
+      "line": 1,
+      "type": "API_CALL",
+      "code": "qa_chain({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 16,
+      "line": 1,
+      "type": "IMPORT",
+      "code": "from langchain.prompts import PromptTemplate",
+      "api": "langchain.prompts.PromptTemplate",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.agent_toolkits.openapi.planner.PromptTemplate",
+      "replacement_candidates": [
+        "langchain_community.agent_toolkits.openapi.planner.PromptTemplate",
+        "langchain_community.agent_toolkits.openapi.planner_prompt.PromptTemplate",
+        "langchain_community.agent_toolkits.powerbi.toolkit.PromptTemplate",
+        "langchain_community.agent_toolkits.sql.base.PromptTemplate",
+        "langchain_community.chains.graph_qa.gremlin.PromptTemplate",
+        "langchain_community.chains.graph_qa.prompts.PromptTemplate",
+        "langchain_community.chains.openapi.requests_chain.PromptTemplate",
+        "langchain_community.chains.openapi.response_chain.PromptTemplate",
+        "langchain_community.example_selectors.ngram_overlap.PromptTemplate",
+        "langchain_community.graphs.index_creator.PromptTemplate",
+        "langchain_community.retrievers.web_research.PromptTemplate",
+        "langchain_community.tools.few_shot.tool.PromptTemplate",
+        "langchain_community.tools.spark_sql.tool.PromptTemplate",
+        "langchain_community.tools.sql_database.tool.PromptTemplate",
+        "langchain_core.example_selectors.length_based.PromptTemplate",
+        "langchain_core.prompts.chat.PromptTemplate",
+        "langchain_core.prompts.few_shot.PromptTemplate",
+        "langchain_core.prompts.few_shot_with_templates.PromptTemplate",
+        "langchain_core.prompts.loading.PromptTemplate",
+        "langchain_core.prompts.prompt.PromptTemplate",
+        "langchain_core.tools.retriever.PromptTemplate"
+      ]
+    },
+    {
+      "cell": 16,
+      "line": 8,
+      "type": "METHOD_CALL",
+      "code": "PromptTemplate.from_template(template)",
+      "api": "langchain.prompts.PromptTemplate.from_template",
+      "status": "OUTDATED",
+      "replacement": "langchain_core.prompts.chat.BaseStringMessagePromptTemplate.from_template",
+      "replacement_candidates": [
+        "langchain_core.prompts.chat.BaseStringMessagePromptTemplate.from_template",
+        "langchain_core.prompts.chat.ChatPromptTemplate.from_template",
+        "langchain_core.prompts.chat._StringImageMessagePromptTemplate.from_template",
+        "langchain_core.prompts.prompt.PromptTemplate.from_template"
+      ]
+    },
+    {
+      "cell": 17,
+      "line": 2,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs={\"prompt\": QA_CHAIN_PROMPT}\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 17,
+      "line": 4,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 19,
+      "line": 1,
+      "type": "API_CALL",
+      "code": "qa_chain({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 23,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever(),\n    chain_type=\"map_reduce\"\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 23,
+      "line": 3,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 24,
+      "line": 1,
+      "type": "API_CALL",
+      "code": "qa_chain_mr({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 28,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever(),\n    chain_type=\"map_reduce\"\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 28,
+      "line": 3,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 28,
+      "line": 6,
+      "type": "API_CALL",
+      "code": "qa_chain_mr({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 29,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever(),\n    chain_type=\"refine\"\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 29,
+      "line": 3,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 29,
+      "line": 6,
+      "type": "API_CALL",
+      "code": "qa_chain_mr({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 31,
+      "line": 1,
+      "type": "METHOD_CALL",
+      "code": "RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever()\n)",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 31,
+      "line": 3,
+      "type": "METHOD_CALL",
+      "code": "vectordb.as_retriever()",
+      "api": "langchain.vectorstores.Chroma.as_retriever",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+      "replacement_candidates": [
+        "langchain_community.graph_vectorstores.base.GraphVectorStore.as_retriever",
+        "langchain_community.vectorstores.azuresearch.AzureSearch.as_retriever",
+        "langchain_community.vectorstores.cassandra.Cassandra.as_retriever",
+        "langchain_community.vectorstores.llm_rails.LLMRails.as_retriever",
+        "langchain_community.vectorstores.redis.base.Redis.as_retriever",
+        "langchain_community.vectorstores.vectara.Vectara.as_retriever",
+        "langchain_community.vectorstores.vespa.VespaStore.as_retriever",
+        "langchain_core.vectorstores.base.VectorStore.as_retriever"
+      ]
+    },
+    {
+      "cell": 32,
+      "line": 2,
+      "type": "API_CALL",
+      "code": "qa_chain({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    },
+    {
+      "cell": 33,
+      "line": 2,
+      "type": "API_CALL",
+      "code": "qa_chain({\"query\": question})",
+      "api": "langchain.chains.RetrievalQA.from_chain_type",
+      "status": "OUTDATED",
+      "replacement": "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type",
+      "replacement_candidates": [
+        "langchain_community.chains.pebblo_retrieval.base.PebbloRetrievalQA.from_chain_type"
+      ]
+    }
+  ]
+}
