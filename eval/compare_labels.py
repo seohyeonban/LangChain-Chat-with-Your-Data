@@ -1,6 +1,7 @@
 """수작업 정답표(A)와 분석기 결과(JSON)를 줄 단위로 비교해 정밀도·재현율을 계산한다.
 정답표 CSV의 api_paths: 한 줄의 출현을 ';'로 구분. 경로를 확정할 수 없는 출현은 '?'.
 사용: python compare_labels.py <labeling_sheet.csv> <analyzer.json>
+정답표가 일부 노트북뿐이면 정답표에 있는 노트북의 분석기 결과만 비교한다(L4만 라벨링한 경우 등).
 """
 import csv, json, sys
 from collections import Counter, defaultdict
@@ -32,6 +33,8 @@ def score(gold, pred, keep=lambda p: True):
 
 if __name__ == '__main__':
     gold, pred = load_gold(sys.argv[1]), load_pred(sys.argv[2])
+    labeled = {k[0] for k in gold} | {r['notebook'] for r in csv.DictReader(open(sys.argv[1], encoding='utf-8-sig', newline=''))}
+    pred = defaultdict(Counter, {k: v for k, v in pred.items() if k[0] in labeled})
     print('gold', sum(sum(c.values()) for c in gold.values()), 'pred', sum(sum(c.values()) for c in pred.values()))
     for name, keep in [('전체(? 포함)', lambda p: True), ('경로 확정 항목만', lambda p: p != '?')]:
         tp, fp, fn, pr, rc = score(gold, pred, keep)
