@@ -18,27 +18,27 @@
   },
   "notebooks": [
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "sha256": "df4b4ce776e571a17084be2f903307eefcddd9f12cf27793eb1704da6edbce43"
     },
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "sha256": "c567bf12f93a572528ebecc42cc7d300c885138896eac12aedfd053b533e72dd"
     },
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "sha256": "02ed26a64779ba1ea5b5bc33bd66dea710e95ce30475dcc72de5614eb8360aaa"
     },
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "sha256": "e7b8b0d2087be9121cb79743864044bbfdd9e39e32fb917120494d4a64032a46"
     },
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "sha256": "68820e12f4d9529930b89d0bc413114567bb1026674e0ef8c7fdf79706145349"
     },
     {
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "sha256": "f2d4cf43b4b7c225bbf4c158767643e10dd4ef18ad34059f8035340f81b605d8"
     }
   ],
@@ -481,7 +481,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 7,
       "line": 1,
       "column": 0,
@@ -613,7 +613,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 7,
       "line": 2,
       "column": 9,
@@ -895,7 +895,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 7,
       "line": 3,
       "column": 8,
@@ -1009,7 +1009,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 14,
       "line": 1,
       "column": 0,
@@ -1115,7 +1115,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 14,
       "line": 2,
       "column": 0,
@@ -1273,7 +1273,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 14,
       "line": 3,
       "column": 0,
@@ -1379,7 +1379,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 17,
       "line": 3,
       "column": 9,
@@ -1537,7 +1537,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 17,
       "line": 4,
       "column": 4,
@@ -1643,7 +1643,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 17,
       "line": 5,
       "column": 4,
@@ -1876,7 +1876,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 17,
       "line": 7,
       "column": 7,
@@ -2016,7 +2016,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 20,
       "line": 1,
       "column": 0,
@@ -2148,7 +2148,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 20,
       "line": 3,
       "column": 9,
@@ -2407,7 +2407,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 21,
       "line": 1,
       "column": 7,
@@ -2547,7 +2547,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 25,
       "line": 1,
       "column": 0,
@@ -2679,7 +2679,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 25,
       "line": 2,
       "column": 9,
@@ -2833,7 +2833,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L1-Document_loading.ipynb",
+      "file": "L1-Document_loading.ipynb",
       "cell": 25,
       "line": 3,
       "column": 7,
@@ -2954,7 +2954,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 2,
       "line": 1,
       "column": 0,
@@ -3049,7 +3049,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 2,
       "line": 1,
       "column": 0,
@@ -3170,7 +3170,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 4,
       "line": 1,
       "column": 13,
@@ -3265,7 +3265,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 4,
       "line": 5,
       "column": 13,
@@ -3408,7 +3408,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 7,
       "line": 1,
       "column": 0,
@@ -3551,7 +3551,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 9,
       "line": 1,
       "column": 0,
@@ -3694,7 +3694,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 12,
       "line": 1,
       "column": 0,
@@ -3811,7 +3811,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 13,
       "line": 1,
       "column": 0,
@@ -3906,7 +3906,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 14,
       "line": 1,
       "column": 13,
@@ -4023,7 +4023,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 14,
       "line": 6,
       "column": 0,
@@ -4118,7 +4118,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 18,
       "line": 1,
       "column": 13,
@@ -4239,7 +4239,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 18,
       "line": 6,
       "column": 13,
@@ -4356,7 +4356,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 19,
       "line": 1,
       "column": 0,
@@ -4499,7 +4499,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 20,
       "line": 1,
       "column": 0,
@@ -4620,7 +4620,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 22,
       "line": 1,
       "column": 13,
@@ -4763,7 +4763,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 22,
       "line": 6,
       "column": 0,
@@ -4884,7 +4884,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 23,
       "line": 1,
       "column": 13,
@@ -5027,7 +5027,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 23,
       "line": 6,
       "column": 0,
@@ -5159,7 +5159,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 24,
       "line": 1,
       "column": 0,
@@ -5291,7 +5291,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 24,
       "line": 2,
       "column": 9,
@@ -5573,7 +5573,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 24,
       "line": 3,
       "column": 8,
@@ -5676,7 +5676,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 25,
       "line": 1,
       "column": 0,
@@ -5771,7 +5771,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 25,
       "line": 2,
       "column": 16,
@@ -5990,7 +5990,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 26,
       "line": 1,
       "column": 7,
@@ -6130,7 +6130,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 29,
       "line": 1,
       "column": 0,
@@ -6262,7 +6262,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 29,
       "line": 2,
       "column": 9,
@@ -6416,7 +6416,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 29,
       "line": 3,
       "column": 12,
@@ -6537,7 +6537,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 33,
       "line": 1,
       "column": 0,
@@ -6658,7 +6658,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 34,
       "line": 1,
       "column": 16,
@@ -6801,7 +6801,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 36,
       "line": 1,
       "column": 0,
@@ -6922,7 +6922,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 37,
       "line": 1,
       "column": 16,
@@ -7167,7 +7167,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 38,
       "line": 1,
       "column": 7,
@@ -7307,7 +7307,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 42,
       "line": 1,
       "column": 0,
@@ -7402,7 +7402,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 42,
       "line": 2,
       "column": 0,
@@ -7497,7 +7497,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 45,
       "line": 1,
       "column": 20,
@@ -7614,7 +7614,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 45,
       "line": 4,
       "column": 19,
@@ -7746,7 +7746,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 49,
       "line": 1,
       "column": 9,
@@ -7900,7 +7900,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 49,
       "line": 2,
       "column": 7,
@@ -7995,7 +7995,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 50,
       "line": 5,
       "column": 20,
@@ -8112,7 +8112,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L2-Document_splitting.ipynb",
+      "file": "L2-Document_splitting.ipynb",
       "cell": 51,
       "line": 1,
       "column": 19,
@@ -8244,7 +8244,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 3,
       "line": 1,
       "column": 0,
@@ -8376,7 +8376,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 3,
       "line": 6,
       "column": 4,
@@ -8508,7 +8508,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 3,
       "line": 7,
       "column": 4,
@@ -8640,7 +8640,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 3,
       "line": 8,
       "column": 4,
@@ -8772,7 +8772,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 3,
       "line": 9,
       "column": 4,
@@ -8893,7 +8893,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 4,
       "line": 2,
       "column": 0,
@@ -9014,7 +9014,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 4,
       "line": 3,
       "column": 16,
@@ -9259,7 +9259,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 5,
       "line": 1,
       "column": 9,
@@ -9399,7 +9399,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 8,
       "line": 1,
       "column": 0,
@@ -9531,7 +9531,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 8,
       "line": 2,
       "column": 12,
@@ -9685,7 +9685,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 10,
       "line": 1,
       "column": 13,
@@ -9839,7 +9839,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 10,
       "line": 2,
       "column": 13,
@@ -9993,7 +9993,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 10,
       "line": 3,
       "column": 13,
@@ -10125,7 +10125,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 17,
       "line": 1,
       "column": 0,
@@ -10279,7 +10279,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 20,
       "line": 1,
       "column": 11,
@@ -10319,7 +10319,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 21,
       "line": 1,
       "column": 6,
@@ -10346,7 +10346,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 24,
       "line": 1,
       "column": 7,
@@ -10373,7 +10373,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 27,
       "line": 1,
       "column": 0,
@@ -10400,7 +10400,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 30,
       "line": 1,
       "column": 7,
@@ -10427,7 +10427,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L3-Vectorstores_and_Embeddings.ipynb",
+      "file": "L3-Vectorstores_and_Embeddings.ipynb",
       "cell": 36,
       "line": 1,
       "column": 7,
@@ -10546,7 +10546,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 5,
       "line": 1,
       "column": 0,
@@ -10678,7 +10678,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 5,
       "line": 2,
       "column": 0,
@@ -10810,7 +10810,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 6,
       "line": 1,
       "column": 12,
@@ -10942,7 +10942,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 6,
       "line": 2,
       "column": 11,
@@ -10982,7 +10982,7 @@
       "reason": "Attribute on a non-module value cannot be inferred",
       "inference_origin": "langchain.vectorstores.Chroma._collection",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 7,
       "line": 1,
       "column": 6,
@@ -11123,7 +11123,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 9,
       "line": 1,
       "column": 10,
@@ -11163,7 +11163,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_texts",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 11,
       "line": 1,
       "column": 0,
@@ -11190,7 +11190,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.Chroma.from_texts",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 12,
       "line": 1,
       "column": 0,
@@ -11331,7 +11331,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 14,
       "line": 2,
       "column": 10,
@@ -11485,7 +11485,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 18,
       "line": 1,
       "column": 11,
@@ -11639,7 +11639,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 23,
       "line": 1,
       "column": 7,
@@ -11702,7 +11702,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 26,
       "line": 1,
       "column": 0,
@@ -11785,7 +11785,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 26,
       "line": 2,
       "column": 0,
@@ -11903,7 +11903,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 26,
       "line": 3,
       "column": 0,
@@ -12021,7 +12021,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 27,
       "line": 2,
       "column": 4,
@@ -12139,7 +12139,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 27,
       "line": 7,
       "column": 4,
@@ -12198,7 +12198,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 28,
       "line": 2,
       "column": 6,
@@ -12317,7 +12317,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 28,
       "line": 3,
       "column": 12,
@@ -12353,7 +12353,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.retrievers.self_query.base.SelfQueryRetriever.from_llm",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 31,
       "line": 1,
       "column": 7,
@@ -12462,7 +12462,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 34,
       "line": 1,
       "column": 0,
@@ -12580,7 +12580,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 34,
       "line": 2,
       "column": 0,
@@ -12639,7 +12639,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 36,
       "line": 2,
       "column": 6,
@@ -12784,7 +12784,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 36,
       "line": 3,
       "column": 13,
@@ -12902,7 +12902,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 37,
       "line": 1,
       "column": 24,
@@ -13131,7 +13131,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 37,
       "line": 3,
       "column": 19,
@@ -13192,7 +13192,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 38,
       "line": 2,
       "column": 18,
@@ -13301,7 +13301,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 40,
       "line": 1,
       "column": 24,
@@ -13530,7 +13530,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 40,
       "line": 3,
       "column": 19,
@@ -13591,7 +13591,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 41,
       "line": 2,
       "column": 18,
@@ -13710,7 +13710,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 43,
       "line": 1,
       "column": 0,
@@ -13842,7 +13842,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 43,
       "line": 2,
       "column": 0,
@@ -13974,7 +13974,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 43,
       "line": 3,
       "column": 0,
@@ -14095,7 +14095,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 43,
       "line": 4,
       "column": 0,
@@ -14227,7 +14227,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 44,
       "line": 2,
       "column": 9,
@@ -14509,7 +14509,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 44,
       "line": 3,
       "column": 8,
@@ -14638,7 +14638,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 44,
       "line": 8,
       "column": 16,
@@ -14781,7 +14781,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 44,
       "line": 9,
       "column": 9,
@@ -14935,7 +14935,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 45,
       "line": 2,
       "column": 16,
@@ -15089,7 +15089,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 45,
       "line": 3,
       "column": 18,
@@ -15129,7 +15129,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.retrievers.SVMRetriever.from_texts",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 46,
       "line": 2,
       "column": 9,
@@ -15156,7 +15156,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.retrievers.TFIDFRetriever.from_texts",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L4-Retrieval.ipynb",
+      "file": "L4-Retrieval.ipynb",
       "cell": 47,
       "line": 2,
       "column": 11,
@@ -15275,7 +15275,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 6,
       "line": 1,
       "column": 0,
@@ -15407,7 +15407,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 6,
       "line": 2,
       "column": 0,
@@ -15539,7 +15539,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 6,
       "line": 4,
       "column": 12,
@@ -15671,7 +15671,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 6,
       "line": 5,
       "column": 11,
@@ -15711,7 +15711,7 @@
       "reason": "Attribute on a non-module value cannot be inferred",
       "inference_origin": "langchain.vectorstores.Chroma._collection",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 7,
       "line": 1,
       "column": 6,
@@ -15852,7 +15852,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 8,
       "line": 2,
       "column": 7,
@@ -15919,7 +15919,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 9,
       "line": 1,
       "column": 0,
@@ -15973,7 +15973,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 9,
       "line": 2,
       "column": 6,
@@ -16104,7 +16104,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 11,
       "line": 1,
       "column": 0,
@@ -16153,7 +16153,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 12,
       "line": 1,
       "column": 11,
@@ -16373,7 +16373,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 12,
       "line": 3,
       "column": 14,
@@ -16421,7 +16421,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 13,
       "line": 1,
       "column": 9,
@@ -16551,7 +16551,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 16,
       "line": 1,
       "column": 0,
@@ -16716,7 +16716,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 16,
       "line": 8,
       "column": 18,
@@ -16769,7 +16769,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 17,
       "line": 2,
       "column": 11,
@@ -16989,7 +16989,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 17,
       "line": 4,
       "column": 14,
@@ -17037,7 +17037,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 19,
       "line": 1,
       "column": 9,
@@ -17077,7 +17077,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 23,
       "line": 1,
       "column": 14,
@@ -17297,7 +17297,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 23,
       "line": 3,
       "column": 14,
@@ -17345,7 +17345,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 24,
       "line": 1,
       "column": 9,
@@ -17385,7 +17385,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 28,
       "line": 1,
       "column": 14,
@@ -17605,7 +17605,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 28,
       "line": 3,
       "column": 14,
@@ -17653,7 +17653,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 28,
       "line": 6,
       "column": 9,
@@ -17693,7 +17693,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 29,
       "line": 1,
       "column": 14,
@@ -17913,7 +17913,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 29,
       "line": 3,
       "column": 14,
@@ -17961,7 +17961,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 29,
       "line": 6,
       "column": 9,
@@ -18001,7 +18001,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 31,
       "line": 1,
       "column": 11,
@@ -18221,7 +18221,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 31,
       "line": 3,
       "column": 14,
@@ -18269,7 +18269,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 32,
       "line": 2,
       "column": 9,
@@ -18296,7 +18296,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L5-Question_answering.ipynb",
+      "file": "L5-Question_answering.ipynb",
       "cell": 33,
       "line": 2,
       "column": 9,
@@ -18415,7 +18415,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 7,
       "line": 1,
       "column": 0,
@@ -18547,7 +18547,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 7,
       "line": 2,
       "column": 0,
@@ -18679,7 +18679,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 7,
       "line": 4,
       "column": 12,
@@ -18811,7 +18811,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 7,
       "line": 5,
       "column": 11,
@@ -18965,7 +18965,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 8,
       "line": 2,
       "column": 7,
@@ -19032,7 +19032,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 9,
       "line": 1,
       "column": 0,
@@ -19086,7 +19086,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 9,
       "line": 2,
       "column": 6,
@@ -19113,7 +19113,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chat_models.ChatOpenAI",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 9,
       "line": 3,
       "column": 0,
@@ -19243,7 +19243,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 2,
       "column": 0,
@@ -19386,7 +19386,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 7,
       "column": 18,
@@ -19530,7 +19530,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 10,
       "column": 0,
@@ -19579,7 +19579,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 12,
       "column": 11,
@@ -19799,7 +19799,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 13,
       "column": 49,
@@ -19847,7 +19847,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.RetrievalQA.from_chain_type",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 10,
       "line": 18,
       "column": 9,
@@ -19956,7 +19956,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 12,
       "line": 1,
       "column": 0,
@@ -20074,7 +20074,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 12,
       "line": 2,
       "column": 9,
@@ -20214,7 +20214,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 14,
       "line": 1,
       "column": 0,
@@ -20443,7 +20443,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 14,
       "line": 2,
       "column": 10,
@@ -20631,7 +20631,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 14,
       "line": 3,
       "column": 5,
@@ -20667,7 +20667,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.ConversationalRetrievalChain.from_llm",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 15,
       "line": 2,
       "column": 9,
@@ -20694,7 +20694,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.chains.ConversationalRetrievalChain.from_llm",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 17,
       "line": 2,
       "column": 9,
@@ -20813,7 +20813,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 1,
       "column": 0,
@@ -20908,7 +20908,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 2,
       "column": 0,
@@ -21029,7 +21029,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 2,
       "column": 0,
@@ -21187,7 +21187,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 3,
       "column": 0,
@@ -21319,7 +21319,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 4,
       "column": 0,
@@ -21463,7 +21463,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 5,
       "column": 0,
@@ -21603,7 +21603,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 5,
       "column": 0,
@@ -21721,7 +21721,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 6,
       "column": 0,
@@ -21784,7 +21784,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 7,
       "column": 0,
@@ -21903,7 +21903,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 8,
       "column": 0,
@@ -22035,7 +22035,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 20,
       "line": 9,
       "column": 0,
@@ -22167,7 +22167,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 4,
       "column": 13,
@@ -22449,7 +22449,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 5,
       "column": 16,
@@ -22578,7 +22578,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 7,
       "column": 20,
@@ -22823,7 +22823,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 8,
       "column": 11,
@@ -22963,7 +22963,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 10,
       "column": 17,
@@ -23245,7 +23245,7 @@
         }
       ],
       "basis": "official_export_relationship",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 12,
       "column": 9,
@@ -23293,7 +23293,7 @@
       "reason": "Return type is unknown; call target is not a verified class",
       "inference_origin": "langchain.vectorstores.DocArrayInMemorySearch.from_documents",
       "inference": "UNKNOWN",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 14,
       "column": 16,
@@ -23460,7 +23460,7 @@
         }
       ],
       "basis": "package_split_identical_definition",
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 16,
       "column": 9,
@@ -23523,7 +23523,7 @@
         }
       ],
       "basis": null,
-      "file": "C:\\Users\\82103\\Desktop\\LAB\\LangChain-Chat-with-Your-Data\\L6-Chat.ipynb",
+      "file": "L6-Chat.ipynb",
       "cell": 22,
       "line": 17,
       "column": 12,
