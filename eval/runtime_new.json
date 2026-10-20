@@ -1,0 +1,205 @@
+{
+ "python": "3.12.10",
+ "versions": {
+  "langchain": "1.3.13",
+  "langchain-community": "0.4.2",
+  "langchain-core": "1.6.9",
+  "langchain-openai": "1.7.0",
+  "langchain-text-splitters": "1.1.3",
+  "langchain-classic": "1.0.8"
+ },
+ "results": {
+  "langchain_classic.chains.ConversationalRetrievalChain": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.chains.ConversationalRetrievalChain.from_llm": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_classic.chains.RetrievalQA": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.chains.query_constructor.base.AttributeInfo": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.memory.ConversationBufferMemory": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.retrievers.ContextualCompressionRetriever": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.retrievers.document_compressors.LLMChainExtractor": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.retrievers.document_compressors.LLMChainExtractor.from_llm": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_classic.retrievers.self_query.base.SelfQueryRetriever": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_classic.retrievers.self_query.base.SelfQueryRetriever.from_llm": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_community.document_loaders.NotionDirectoryLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.NotionDirectoryLoader.load": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.document_loaders.PyPDFLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.PyPDFLoader.load": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.document_loaders.TextLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.WebBaseLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.WebBaseLoader.load": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.document_loaders.YoutubeAudioLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.generic.GenericLoader": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.document_loaders.generic.GenericLoader.load": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.document_loaders.parsers.audio.OpenAIWhisperParser": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.embeddings.OpenAIEmbeddings": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_community.embeddings.OpenAIEmbeddings.embed_query": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.retrievers.SVMRetriever": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_community.retrievers.SVMRetriever.from_texts": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_community.retrievers.TFIDFRetriever": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_community.retrievers.TFIDFRetriever.from_texts": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_community.vectorstores.Chroma": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.vectorstores.Chroma.as_retriever": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.vectorstores.Chroma.from_documents": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_community.vectorstores.Chroma.from_texts": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_community.vectorstores.Chroma.max_marginal_relevance_search": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.vectorstores.Chroma.similarity_search": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_community.vectorstores.DocArrayInMemorySearch": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_community.vectorstores.DocArrayInMemorySearch.from_documents": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_core.prompts.PromptTemplate": {
+   "ok": true,
+   "kind": "ModelMetaclass"
+  },
+  "langchain_core.prompts.PromptTemplate.from_template": {
+   "ok": true,
+   "kind": "method"
+  },
+  "langchain_text_splitters.RecursiveCharacterTextSplitter": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_text_splitters.RecursiveCharacterTextSplitter.split_documents": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.RecursiveCharacterTextSplitter.split_text": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.TokenTextSplitter": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_text_splitters.TokenTextSplitter.split_documents": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.TokenTextSplitter.split_text": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.character.CharacterTextSplitter": {
+   "ok": true,
+   "kind": "ABCMeta"
+  },
+  "langchain_text_splitters.character.CharacterTextSplitter.split_documents": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.character.CharacterTextSplitter.split_text": {
+   "ok": true,
+   "kind": "function"
+  },
+  "langchain_text_splitters.markdown.MarkdownHeaderTextSplitter": {
+   "ok": true,
+   "kind": "type"
+  },
+  "langchain_text_splitters.markdown.MarkdownHeaderTextSplitter.split_text": {
+   "ok": true,
+   "kind": "function"
+  }
+ }
+}

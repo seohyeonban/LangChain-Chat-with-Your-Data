@@ -1,0 +1,221 @@
+{
+ "python": "3.12.10",
+ "versions": {
+  "langchain": "1.3.13",
+  "langchain-community": "0.4.2",
+  "langchain-core": "1.6.9",
+  "langchain-openai": "1.7.0",
+  "langchain-text-splitters": "1.1.3",
+  "langchain-classic": "1.0.8"
+ },
+ "results": {
+  "langchain.chains.ConversationalRetrievalChain": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'chains'"
+  },
+  "langchain.chains.ConversationalRetrievalChain.from_llm": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'chains'"
+  },
+  "langchain.chains.RetrievalQA": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'chains'"
+  },
+  "langchain.chains.RetrievalQA.from_chain_type": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'chains'"
+  },
+  "langchain.chains.query_constructor.base.AttributeInfo": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'chains'"
+  },
+  "langchain.chat_models.ChatOpenAI": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain.chat_models' has no attribute 'ChatOpenAI'"
+  },
+  "langchain.document_loaders.NotionDirectoryLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.NotionDirectoryLoader.load": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.PyPDFLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.PyPDFLoader.load": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.TextLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.WebBaseLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.WebBaseLoader.load": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.blob_loaders.youtube_audio.YoutubeAudioLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.generic.GenericLoader": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.generic.GenericLoader.load": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.document_loaders.parsers.OpenAIWhisperParser": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'document_loaders'"
+  },
+  "langchain.embeddings.openai.OpenAIEmbeddings": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain.embeddings' has no attribute 'openai'"
+  },
+  "langchain.embeddings.openai.OpenAIEmbeddings.embed_query": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain.embeddings' has no attribute 'openai'"
+  },
+  "langchain.llms.OpenAI": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'llms'"
+  },
+  "langchain.memory.ConversationBufferMemory": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'memory'"
+  },
+  "langchain.prompts.PromptTemplate": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'prompts'"
+  },
+  "langchain.prompts.PromptTemplate.from_template": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'prompts'"
+  },
+  "langchain.retrievers.ContextualCompressionRetriever": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.ContextualCompressionRetriever.get_relevant_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.SVMRetriever": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.SVMRetriever.from_texts": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.TFIDFRetriever": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.TFIDFRetriever.from_texts": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.document_compressors.LLMChainExtractor": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.document_compressors.LLMChainExtractor.from_llm": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.self_query.base.SelfQueryRetriever": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.retrievers.self_query.base.SelfQueryRetriever.from_llm": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'retrievers'"
+  },
+  "langchain.text_splitter.CharacterTextSplitter": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.CharacterTextSplitter.split_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.CharacterTextSplitter.split_text": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.MarkdownHeaderTextSplitter": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.MarkdownHeaderTextSplitter.split_text": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.RecursiveCharacterTextSplitter": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.RecursiveCharacterTextSplitter.split_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.RecursiveCharacterTextSplitter.split_text": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.TokenTextSplitter": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.TokenTextSplitter.split_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.text_splitter.TokenTextSplitter.split_text": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'text_splitter'"
+  },
+  "langchain.vectorstores.Chroma": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.Chroma.as_retriever": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.Chroma.from_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.Chroma.from_texts": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.Chroma.max_marginal_relevance_search": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.Chroma.similarity_search": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.DocArrayInMemorySearch": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  },
+  "langchain.vectorstores.DocArrayInMemorySearch.from_documents": {
+   "ok": false,
+   "error": "AttributeError: module 'langchain' has no attribute 'vectorstores'"
+  }
+ }
+}

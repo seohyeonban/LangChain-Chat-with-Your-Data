@@ -1,0 +1,53 @@
+﻿기존 API 경로,현재 API 경로,출현 수,분석 상태,근거 유형,1 API 존재,2 경로 일치,3 이름 일치,4 클래스 소속,5 기능 동등성,6 Git 변경 이력,7 REEXPORT,8 상속,9 실행 가능,10 정답 신뢰도
+langchain.document_loaders.PyPDFLoader,langchain_community.document_loaders.PyPDFLoader,13,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.PyPDFLoader.load,langchain_community.document_loaders.PyPDFLoader.load,4,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.generic.GenericLoader,langchain_community.document_loaders.generic.GenericLoader,2,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.parsers.OpenAIWhisperParser,langchain_community.document_loaders.parsers.audio.OpenAIWhisperParser,2,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.blob_loaders.youtube_audio.YoutubeAudioLoader,langchain_community.document_loaders.YoutubeAudioLoader,2,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.generic.GenericLoader.load,langchain_community.document_loaders.generic.GenericLoader.load,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.WebBaseLoader,langchain_community.document_loaders.WebBaseLoader,2,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.WebBaseLoader.load,langchain_community.document_loaders.WebBaseLoader.load,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.NotionDirectoryLoader,langchain_community.document_loaders.NotionDirectoryLoader,6,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.NotionDirectoryLoader.load,langchain_community.document_loaders.NotionDirectoryLoader.load,3,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.RecursiveCharacterTextSplitter,langchain_text_splitters.RecursiveCharacterTextSplitter,11,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.CharacterTextSplitter,langchain_text_splitters.character.CharacterTextSplitter,7,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.RecursiveCharacterTextSplitter.split_text,langchain_text_splitters.RecursiveCharacterTextSplitter.split_text,7,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.CharacterTextSplitter.split_text,langchain_text_splitters.character.CharacterTextSplitter.split_text,3,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.CharacterTextSplitter.split_documents,langchain_text_splitters.character.CharacterTextSplitter.split_documents,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.TokenTextSplitter,langchain_text_splitters.TokenTextSplitter,3,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.TokenTextSplitter.split_text,langchain_text_splitters.TokenTextSplitter.split_text,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.TokenTextSplitter.split_documents,langchain_text_splitters.TokenTextSplitter.split_documents,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.MarkdownHeaderTextSplitter,langchain_text_splitters.markdown.MarkdownHeaderTextSplitter,3,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.MarkdownHeaderTextSplitter.split_text,langchain_text_splitters.markdown.MarkdownHeaderTextSplitter.split_text,2,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.text_splitter.RecursiveCharacterTextSplitter.split_documents,langchain_text_splitters.RecursiveCharacterTextSplitter.split_documents,2,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.embeddings.openai.OpenAIEmbeddings,langchain_community.embeddings.OpenAIEmbeddings,10,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.embeddings.openai.OpenAIEmbeddings.embed_query,langchain_community.embeddings.OpenAIEmbeddings.embed_query,3,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.Chroma,langchain_community.vectorstores.Chroma,7,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.Chroma.from_documents,langchain_community.vectorstores.Chroma.from_documents,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.Chroma.from_texts,langchain_community.vectorstores.Chroma.from_texts,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.Chroma.similarity_search,langchain_community.vectorstores.Chroma.similarity_search,4,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.Chroma.max_marginal_relevance_search,langchain_community.vectorstores.Chroma.max_marginal_relevance_search,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.llms.OpenAI,,3,UNVERIFIED,,미존재(후보 없음),해당 없음,해당 없음,해당 없음,미확인,미확인,미확인,미확인,미검증,부적합
+langchain.retrievers.self_query.base.SelfQueryRetriever,langchain_classic.retrievers.self_query.base.SelfQueryRetriever,1,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.chains.query_constructor.base.AttributeInfo,langchain_classic.chains.query_constructor.base.AttributeInfo,3,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.retrievers.self_query.base.SelfQueryRetriever.from_llm,langchain_classic.retrievers.self_query.base.SelfQueryRetriever.from_llm,1,MOVED,package_split_identical_definition,존재,정확,일치,일치,미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.retrievers.ContextualCompressionRetriever,langchain_classic.retrievers.ContextualCompressionRetriever,3,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.retrievers.document_compressors.LLMChainExtractor,langchain_classic.retrievers.document_compressors.LLMChainExtractor,1,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.retrievers.document_compressors.LLMChainExtractor.from_llm,langchain_classic.retrievers.document_compressors.LLMChainExtractor.from_llm,1,MOVED,package_split_identical_definition,존재,정확,일치,일치,미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.vectorstores.Chroma.as_retriever,langchain_community.vectorstores.Chroma.as_retriever,10,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.retrievers.ContextualCompressionRetriever.get_relevant_documents,,2,UNVERIFIED,,미존재(후보 없음),해당 없음,해당 없음,해당 없음,미확인,미확인,미확인,미확인,미검증,부적합
+langchain.retrievers.SVMRetriever,langchain_community.retrievers.SVMRetriever,1,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.retrievers.TFIDFRetriever,langchain_community.retrievers.TFIDFRetriever,1,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.retrievers.SVMRetriever.from_texts,langchain_community.retrievers.SVMRetriever.from_texts,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.retrievers.TFIDFRetriever.from_texts,langchain_community.retrievers.TFIDFRetriever.from_texts,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.chat_models.ChatOpenAI,,6,UNVERIFIED,,미존재(후보 없음),해당 없음,해당 없음,해당 없음,미확인,미확인,미확인,미확인,미검증,부적합
+langchain.chains.RetrievalQA,langchain_classic.chains.RetrievalQA,3,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.chains.RetrievalQA.from_chain_type,,7,UNVERIFIED,,미존재(후보 없음),해당 없음,해당 없음,해당 없음,미확인,미확인,미확인,미확인,미검증,부적합
+langchain.prompts.PromptTemplate,langchain_core.prompts.PromptTemplate,3,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.prompts.PromptTemplate.from_template,langchain_core.prompts.PromptTemplate.from_template,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.memory.ConversationBufferMemory,langchain_classic.memory.ConversationBufferMemory,3,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.chains.ConversationalRetrievalChain,langchain_classic.chains.ConversationalRetrievalChain,2,MOVED,package_split_identical_definition,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.chains.ConversationalRetrievalChain.from_llm,langchain_classic.chains.ConversationalRetrievalChain.from_llm,2,MOVED,package_split_identical_definition,존재,정확,일치,일치,미확인,미확인,미확인,미확인,성공(현재 경로) / 기존 경로 실패,검토 필요
+langchain.vectorstores.DocArrayInMemorySearch,langchain_community.vectorstores.DocArrayInMemorySearch,1,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.document_loaders.TextLoader,langchain_community.document_loaders.TextLoader,2,MOVED,official_export_relationship,존재,정확,일치,해당 없음(메서드 아님),미확인,미확인,확인,미확인,성공(현재 경로) / 기존 경로 실패,확정
+langchain.vectorstores.DocArrayInMemorySearch.from_documents,langchain_community.vectorstores.DocArrayInMemorySearch.from_documents,1,MOVED,official_export_relationship,존재,정확,일치,일치,미확인,미확인,확인,확인,성공(현재 경로) / 기존 경로 실패,확정
